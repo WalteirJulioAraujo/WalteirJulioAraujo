@@ -19,7 +19,7 @@
 - ⚡ **Algo interessante sobre mim:** Sou um grande fã da trilogia Matrix, já assisti mais vezes do que consigo contar. Outro curiosidade é que morei em todas as regiões do Brasil(tirando o Sul)!
 
 
-- ♥️ **Amo fazer:** Viajar, ler, codar, doguinhos caramelo, videogames, café e filmes do anos 90 e 2000, cringe né?!
+- ♥️ **Amo:** Viajar, ler, codar, doguinhos caramelo, videogames, café e filmes do anos 90 e 2000, cringe né?!
 
 
 ## Me contate aqui:
