@@ -23,7 +23,7 @@
 
 
 ## Me contate aqui:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/walteir-araujo/)
+<a href="https://www.linkedin.com/in/walteir-araujo/" target="_blank"><img align="left" alt="holisitc_developer | LinkedIn" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [<img align="left" alt="holisitc_developer | LinkedIn" width="65px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:walteiraraujo@poli.ufrj.br)
 
 </br>
@@ -37,7 +37,7 @@
 <a href="#"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 <a href="#"><img align="left" alt="Express" width="26px" src="https://simpleicons.org/icons/express.svg" /></a>
 <a href="#"><img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-<a href="#"><img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <a href="#"><img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>
 <a href="#"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
 <a href="#"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
@@ -68,7 +68,7 @@
 <details>
 <summary><strong>Saiba mais</strong></summary>
 
-<a href="https://www.instagram.com/walteirtei/"><img alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/walteirtei/" target="_blank"><img alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 Meu nome é Walteir Araújo e tenho 27 anos. Sou aluno de Engenharia Metalúrgica - UFRJ e no último ano tenho me dedicado totalmente a programação. </br>
 Meu fascínio pela computação começou quando era pequeno, sempre amei computadores e me perguntava como tudo funcionava "por dentro". Na faculdade tive contanto com o python, e o usava pra resolver pequenos problemas do dia a dia, como fazer algumas contas pra mim. Porém foi na minha iniciação científica em que vi o poder que a programação tem, e decidi entrar de cabeça na área.</br>
