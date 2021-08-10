@@ -1,7 +1,7 @@
 ## **Hello World, how are you?**
 ### Meu nome é Walteir Araújo e seja bem-vindo(a) ao meu Github!
 
-<img align="right" alt="GIF" src="5eKX.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="codeloop.gif" width="500" height="300" />
 
 
 - 🔭 **O que encontro por aqui?** Aqui você vai encontrar todos os projetos que fiz nos últimos 6 meses, onde apliquei o aprendizado de várias tecnologias.
