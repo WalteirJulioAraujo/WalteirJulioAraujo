@@ -45,23 +45,30 @@
 
 </br>
 </br>
+</br>
 
 <details>
-  <summary>⚡⚡Linguagens mais usadas⚡⚡</summary>
+  <summary><strong>⚡⚡Linguagens mais usadas⚡⚡</strong></summary>
 
 <img alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalteirJulioAraujo" />
 
 </details>
 
 <details>
-  <summary>⚡⚡GitHub Stats⚡⚡</summary>
+  <summary><strong>⚡⚡GitHub Stats⚡⚡</strong></summary>
 
   <img alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WalteirJulioAraujo&show_icons=true&hide_border=true" />
 
 </details>
 
+</br>
+
 ## Saiba mais sobre mim, eu sou legal 😄 
+<details>
+<summary><strong>Saiba mais</strong></summary>
 Meu nome é Walteir Araújo e tenho 27 anos. Sou aluno de Engenharia Metalúrgica - UFRJ e no último ano tenho me dedicado totalmente a programação. </br>
 Meu fascínio pela computação começou quando era pequeno, sempre amei computadores e me perguntava como tudo funcionava "por dentro". Na faculdade tive contanto com o python, e o usava pra resolver pequenos problemas do dia a dia, como fazer algumas contas pra mim. Porém foi na minha iniciação científica em que vi o poder que a programação tem, e decidi entrar de cabeça na área.</br>
 Conheci o modelo de bootcamp e escolhi um, que também me escolheu, a Driven, e digo tranquilamente que foi uma das melhores escohas da minha vida. Aprendi várias linguagens, fiz vários projetos aplicando metodologias ágeis e fiz vários amigos que carrego comigo.</br>
 Posso dizer,tranquilamente, eu amo programar 😍!
+
+</details>
