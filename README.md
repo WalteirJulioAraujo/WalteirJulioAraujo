@@ -68,7 +68,7 @@
 <summary><strong>Saiba mais</strong></summary>
 Meu nome é Walteir Araújo e tenho 27 anos. Sou aluno de Engenharia Metalúrgica - UFRJ e no último ano tenho me dedicado totalmente a programação. </br>
 Meu fascínio pela computação começou quando era pequeno, sempre amei computadores e me perguntava como tudo funcionava "por dentro". Na faculdade tive contanto com o python, e o usava pra resolver pequenos problemas do dia a dia, como fazer algumas contas pra mim. Porém foi na minha iniciação científica em que vi o poder que a programação tem, e decidi entrar de cabeça na área.</br>
-Conheci o modelo de bootcamp e escolhi um, que também me escolheu, a Driven, e digo tranquilamente que foi uma das melhores escohas da minha vida. Aprendi várias linguagens, fiz vários projetos aplicando metodologias ágeis e fiz vários amigos que carrego comigo.</br>
+Conheci o modelo de bootcamp e escolhi um, que também me escolheu, a Driven, e digo com toda certeza que foi uma das melhores escohas da minha vida. Aprendi várias linguagens, fiz vários projetos aplicando metodologias ágeis e fiz vários amigos que carrego comigo.</br>
 Posso dizer,tranquilamente, eu amo programar 😍!
 
 </details>
