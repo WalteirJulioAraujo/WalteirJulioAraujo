@@ -23,7 +23,7 @@
 
 
 ## Me contate aqui:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/walteir-araujo/)
+[<img align="left" alt="holisitc_developer | LinkedIn" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/walteir-araujo/)
 [<img align="left" alt="holisitc_developer | LinkedIn" width="65px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:walteiraraujo@poli.ufrj.br)
 
 </br>
@@ -66,6 +66,9 @@
 ## Saiba mais sobre mim, eu sou legal 😄 
 <details>
 <summary><strong>Saiba mais</strong></summary>
+
+<a href="https://www.instagram.com/walteirtei/"><img alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 Meu nome é Walteir Araújo e tenho 27 anos. Sou aluno de Engenharia Metalúrgica - UFRJ e no último ano tenho me dedicado totalmente a programação. </br>
 Meu fascínio pela computação começou quando era pequeno, sempre amei computadores e me perguntava como tudo funcionava "por dentro". Na faculdade tive contanto com o python, e o usava pra resolver pequenos problemas do dia a dia, como fazer algumas contas pra mim. Porém foi na minha iniciação científica em que vi o poder que a programação tem, e decidi entrar de cabeça na área.</br>
 Conheci o modelo de bootcamp e escolhi um, que também me escolheu, a Driven, e digo com toda certeza que foi uma das melhores escohas da minha vida. Aprendi várias linguagens, fiz vários projetos aplicando metodologias ágeis e fiz vários amigos que carrego comigo.</br>
